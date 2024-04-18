@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="297" viewBox="0 0 370 297">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5887" data-name="Rectangle 5887" width="370" height="297" transform="translate(898 1658)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_471" data-name="Mask Group 471" transform="translate(-898 -1658)" clip-path="url(#clip-path)">
+    <g id="Custom_vector_5" transform="translate(930 1359.334)" opacity="0.2">
+      <line id="Line_4111" data-name="Line 4111" y1="313.83" x2="152.46" transform="translate(249.48 349.156)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4112" data-name="Line 4112" y1="313.83" x2="151.47" transform="translate(49.5 349.156)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4113" data-name="Line 4113" x1="200.373" transform="translate(0.597 563.14)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4114" data-name="Line 4114" y1="412.096" x2="200.373" transform="translate(200.97 151.044)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4115" data-name="Line 4115" y1="411.84" x2="200.97" transform="translate(0 151.156)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4116" data-name="Line 4116" x1="200.373" transform="translate(201.406 349.234)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4117" data-name="Line 4117" x1="170.688" y1="349.234" transform="translate(231.092)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4118" data-name="Line 4118" x1="169.378" y1="349.234" transform="translate(32.028)" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4119" data-name="Line 4119" x2="199.063" transform="translate(32.028)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4120" data-name="Line 4120" x2="198.99" transform="translate(200.97 151.156)" fill="none" stroke="#fff" stroke-width="1"/>
+      <line id="Line_4121" data-name="Line 4121" x2="198" transform="translate(49.5 662.985)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

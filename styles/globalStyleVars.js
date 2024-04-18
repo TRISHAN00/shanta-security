@@ -1,0 +1,11 @@
+export const text = '#3C3C3B';
+export const hover = '#978C21';
+export const title = `"Avenir", Euclid Square, Arial, Helvetica, freesans, sans-serif `;
+export const book = `"Avenir Book"`;
+export const heavy = `"Avenir Heavy"`;
+export const color_plate_one = '#C6C6C6';
+export const color_plate_two = '#2B817D';
+export const color_plate_three = '#638297';
+export const color_plate_four = '#E1BA87';
+export const color_plate_five = '#B4878A';
+export const color_plate_six = '#7497AC';

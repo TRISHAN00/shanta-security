@@ -1,0 +1,108 @@
+
+@font-face {
+    font-family: 'Avenir Book';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701886732/shanta-securities/Avenir-Book_bdcygw.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701886732/shanta-securities/Avenir-Book_bdcygw.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931936/shanta-securities/Avenir-Black_dggtnp.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931937/shanta-securities/Avenir-Black_kkz1qu.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931936/shanta-securities/Avenir-BookOblique_li5khi.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931937/shanta-securities/Avenir-BookOblique_sgq7tn.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931937/shanta-securities/Avenir-HeavyOblique_me6yum.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931937/shanta-securities/Avenir-HeavyOblique_qsoeoo.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931936/shanta-securities/Avenir-BookOblique_li5khi.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931936/shanta-securities/Avenir-Black_dggtnp.woff2') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir Heavy';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701886726/shanta-securities/Avenir-Heavy_di4jpj.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931937/shanta-securities/Avenir-Heavy_mxzsuh.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931943/shanta-securities/Avenir-Medium_upq7yf.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931943/shanta-securities/Avenir-Medium_wfvbge.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931943/shanta-securities/Avenir-MediumOblique_fvyoui.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931943/shanta-securities/Avenir-MediumOblique_obycvx.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931938/shanta-securities/Avenir-Light_knpcuj.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931938/shanta-securities/Avenir-Light_qojhgr.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931945/shanta-securities/Avenir-Oblique_l4490t.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931944/shanta-securities/Avenir-Oblique_tnrxif.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931946/shanta-securities/Avenir-Roman_xukysv.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931946/shanta-securities/Avenir-Roman_hbnqoi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Avenir';
+    src: url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931942/shanta-securities/Avenir-LightOblique_dijhzi.woff2') format('woff2'),
+    url('https://res.cloudinary.com/dhludlu7v/raw/upload/v1701931938/shanta-securities/Avenir-Light_knpcuj.woff2') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}

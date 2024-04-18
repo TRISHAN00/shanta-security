@@ -1,0 +1,22 @@
+export const ApiParamKey = {
+    TYPE: 'type',
+    PAGE_ID: 'page_id',
+    PAGE_SLUG: 'page_slug',
+    VALUE : 'value',
+    GET_SECTION : 'get_section',
+    IMAGE : 'image',
+    POST : 'post',
+    FILE : 'file',
+    GALLERY : 'gallery',
+    LIMIT : 'limit',
+    VARIATION : 'variation',
+    SPECIFICATION : 'specification',
+    KEYWORD : 'keyword',
+    PARENTPAGE : 'parent_page_id',
+    DIVISION_ID: 'division_id',
+    RADIUS:'radius',
+    KEY:'key',
+    CATEGORY_ID:'category_id',
+    DATE:'date',
+
+};
